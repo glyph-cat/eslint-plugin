@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/npm/v/@chin98edwin/eslint-plugin)](https://github.com/chin98edwin/eslint-plugin/releases)
 ![Bundle size](https://img.shields.io/bundlephobia/min/@chin98edwin/eslint-plugin)
-[![License](![GitHub](https://img.shields.io/github/license/chin98edwin/eslint-plugin))](https://github.com/chin98edwin/eslint-plugin/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/chin98edwin/eslint-plugin)](https://github.com/chin98edwin/eslint-plugin/blob/main/LICENSE)
 [![Support me on Ko-fi](https://img.shields.io/static/v1?label&logo=kofi&logoColor=ffffff&message=Support%20me%20on%20Ko-fi&color=FF5E5B)](https://ko-fi.com/dev_chin98edwin)
 
 </div>
