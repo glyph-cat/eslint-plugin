@@ -1,0 +1,42 @@
+{
+  "name": "@chin98edwin/eslint-plugin",
+  "description": "Shared ESLint plugin/config used by me (chin98edwin)",
+  "version": "0.0.0-experimental.0",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "author": "chin98edwin",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "eslint-config",
+    "javascript",
+    "typescript",
+    "react"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chin98edwin/eslint-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chin98edwin/eslint-plugin/issues"
+  },
+  "homepage": "https://github.com/chin98edwin/eslint-plugin#readme",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.31.0",
+    "@typescript-eslint/parser": "^4.31.0",
+    "eslint": "^7.32.0",
+    "eslint-import-resolver-typescript": "^2.4.0",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.25.1",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "typescript": "^4.4.2"
+  }
+}
