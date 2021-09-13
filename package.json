@@ -1,7 +1,7 @@
 {
   "name": "@chin98edwin/eslint-plugin",
   "description": "Shared ESLint plugin/config used by me (chin98edwin)",
-  "version": "0.0.0-experimental.5",
+  "version": "0.0.0-experimental.6",
   "main": "index.js",
   "files": [
     "index.js",
