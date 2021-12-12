@@ -112,3 +112,11 @@ updated soon so that you can resolve the issue with
 [Method #2](#2-update-eslint-plugin-dependencies).
 
 <br/>
+
+# Support Me
+
+* Ko-fi: [`ko-fi.com/dev_chin98edwin`](https://ko-fi.com/dev_chin98edwin)
+* PayPal: [`paypal.me/chin98edwin`](http://paypal.me/chin98edwin)
+* BTC: [`bc1q5qp6a972l8m0k26ln9deuhup0nmldf86ndu5we`](bitcoin:bc1q5qp6a972l8m0k26ln9deuhup0nmldf86ndu5we)
+
+<br/>
