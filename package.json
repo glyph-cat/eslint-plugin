@@ -1,13 +1,12 @@
 {
-  "name": "@chin98edwin/eslint-plugin",
-  "description": "Shared ESLint plugin/config used by me (chin98edwin)",
+  "name": "@glyphcat/eslint-plugin",
   "version": "0.0.0-experimental.8",
   "main": "index.js",
   "files": [
     "index.js",
     "lib"
   ],
-  "author": "chin98edwin",
+  "author": "glyphcat",
   "license": "MIT",
   "scripts": {
     "lint": "eslint .",
@@ -23,12 +22,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/chin98edwin/eslint-plugin.git"
+    "url": "https://github.com/glyphcat/eslint-plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/chin98edwin/eslint-plugin/issues"
+    "url": "https://github.com/glyphcat/eslint-plugin/issues"
   },
-  "homepage": "https://github.com/chin98edwin/eslint-plugin#readme",
+  "homepage": "https://github.com/glyphcat/eslint-plugin#readme",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.7.0",
     "@typescript-eslint/parser": "^5.7.0",

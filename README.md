@@ -1,9 +1,9 @@
 <div align="center">
 
-[![Version](https://img.shields.io/npm/v/@chin98edwin/eslint-plugin)](https://github.com/chin98edwin/eslint-plugin/releases)
-![Bundle size](https://img.shields.io/bundlephobia/min/@chin98edwin/eslint-plugin)
-[![License](https://img.shields.io/github/license/chin98edwin/eslint-plugin)](https://github.com/chin98edwin/eslint-plugin/blob/main/LICENSE)
-[![Support me on Ko-fi](https://img.shields.io/static/v1?label&logo=kofi&logoColor=ffffff&message=Support%20me%20on%20Ko-fi&color=FF5E5B)](https://ko-fi.com/dev_chin98edwin)
+[![Version](https://img.shields.io/npm/v/@glyphcat/eslint-plugin)](https://github.com/glyphcat/eslint-plugin/releases)
+![Bundle size](https://img.shields.io/bundlephobia/min/@glyphcat/eslint-plugin)
+[![License](https://img.shields.io/github/license/glyphcat/eslint-plugin)](https://github.com/glyphcat/eslint-plugin/blob/main/LICENSE)
+[![Support me on Ko-fi](https://img.shields.io/static/v1?label&logo=kofi&logoColor=ffffff&message=Support%20me%20on%20Ko-fi&color=FF5E5B)](https://ko-fi.com/glyphcat)
 
 </div>
 
@@ -31,15 +31,15 @@
 
 # Installation
 
-With [NPM](https://www.npmjs.com/package/@chin98edwin/eslint-plugin):
+With [NPM](https://www.npmjs.com/package/@glyphcat/eslint-plugin):
 ```sh
-npm i -D @chin98edwin/eslint-plugin
+npm i -D @glyphcat/eslint-plugin
 ```
 <br/>
 
-With [Yarn](https://yarnpkg.com/package/@chin98edwin/eslint-plugin):
+With [Yarn](https://yarnpkg.com/package/@glyphcat/eslint-plugin):
 ```sh
-yarn add -D @chin98edwin/eslint-plugin
+yarn add -D @glyphcat/eslint-plugin
 ```
 <br/>
 
@@ -52,10 +52,10 @@ module.exports = {
   extends: [
 
     // For developing websites and apps:
-    'plugin:@chin98edwin/recommended',
+    'plugin:@glyphcat/recommended',
 
     // For maintaining libraries:
-    'plugin:@chin98edwin/strict',
+    'plugin:@glyphcat/strict',
     // (Same as '/recommended', but warnings are treated as errors)
 
   ],
@@ -92,13 +92,13 @@ this package depends on stays up to date.
 
 For example, your project might be using `eslint-config-next`.
 
-Under the hood, both `eslint-config-next` and `@chin98edwin/eslint-plugin` uses
+Under the hood, both `eslint-config-next` and `@glyphcat/eslint-plugin` uses
 `eslint-plugin-import`.
 
 When they depend on *different* versions of `eslint-plugin-import`, this causes
 the error "`ESLint couldn't determine the plugin "import" uniquely.`" to appear.
 
-If the latest versions of `eslint-config-next` and `@chin98edwin/eslint-plugin`
+If the latest versions of `eslint-config-next` and `@glyphcat/eslint-plugin`
 depend the *same* version of `eslint-plugin-import`, updating the packages would
 solve the error.
 
@@ -115,8 +115,7 @@ updated soon so that you can resolve the issue with
 
 # Support Me
 
-* Ko-fi: [`ko-fi.com/dev_chin98edwin`](https://ko-fi.com/dev_chin98edwin)
-* PayPal: [`paypal.me/chin98edwin`](http://paypal.me/chin98edwin)
+* Ko-fi: [`ko-fi.com/glyphcat`](https://ko-fi.com/glyphcat)
 * BTC: [`bc1q5qp6a972l8m0k26ln9deuhup0nmldf86ndu5we`](bitcoin:bc1q5qp6a972l8m0k26ln9deuhup0nmldf86ndu5we)
 
 <br/>
